@@ -12,3 +12,7 @@ The confusion steems from the fact that each member of the prorotype chain can b
 
 So in this sense, classes in JavaScript do not unlock any additional inheritance capabilities, only place a layer of abstraction over the prototype chain.
  ## [prototype_chain](./prototype_chain.md)
+
+ The advantages of this pattern lean on the classes themselves, meaning that they allow for inheritance and encapsulation.
+ ## [inheritance](./inheritance.md)
+ ## [encapsulation](./encapsulation.md)
