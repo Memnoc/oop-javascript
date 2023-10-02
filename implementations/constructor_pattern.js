@@ -16,7 +16,6 @@ class Car {
     return `${this.model} from ${this.year} has done ${this.miles}`
   }
 }
-
 // make some cars
 const pontiac = new Car('M34a', 1984, 144)
 // console.log(pontiac.toString())
